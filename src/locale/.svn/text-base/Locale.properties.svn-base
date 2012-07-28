@@ -1,4 +1,0 @@
-APPLICATION_TITLE = Adventureface Video Machine
-
-WAITING_FOR_NOTE_LBL_TEXT = Waiting for MIDI note...
-WAITING_FOR_NOTE_CANCEL_BTN_TEXT = Cancel
