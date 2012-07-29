@@ -3,8 +3,12 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="libs/jna-3.4.0.jar"/>
-	<classpathentry kind="lib" path="libs/vlcj-2.0.0.jar" sourcepath="C:/Documents and Settings/Jared/workspace/VideoMachine/libs/vlcj-2.0.0-sources.jar"/>
 	<classpathentry kind="lib" path="libs/betterbeansbinding-1.3.0-all.jar"/>
 	<classpathentry kind="lib" path="libs/filedrop.jar"/>
+	<classpathentry kind="lib" path="libs/vlcj-2.1.0.jar" sourcepath="libs/vlcj-2.1.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Video-Machine/libs/vlcj-2.1.0-sources.jar!/"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
